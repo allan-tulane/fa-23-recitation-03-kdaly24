@@ -74,7 +74,7 @@ def _quadratic_multiply(x, y):
     ###
 
 
-    
+     
     
 def test_quadratic_multiply():
     start = time.time()
